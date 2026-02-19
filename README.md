@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋🔭☀️
 
-<!--
-**AngelDMartinezC/AngelDMartinezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Angel D. Martinez, a PhD student at Monash University in Mathematics focusing on Solar Physics. ➕🔭☀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I work on data-driven approaches to understand the Sun aand complex physical systems.
+
+---
+
+## Research Interests
+
+- Solar magnetic fields  
+- PFSS modeling  
+- Flare evolution  
+- Time-distance analysis  
+- Large-scale solar data processing  
+
+---
+
+## Contact
+
+[GitHub](https://github.com/AngelDMartinezC)
+[LinkedIn](https://www.linkedin.com/in/angel-daniel-martinez-cifuentes-48558199/)
