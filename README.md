@@ -14,7 +14,7 @@ I work on mathematical and data-driven approaches to understand the Sun aand com
 - Computational acoustic holography
 - Local helioseismology
 - Solar magnetic fields  
-- PFSS modeling  
+- PFSS/NLFF modeling  
 - Flare evolution  
 - Time-distance analysis  
 - Large-scale solar data processing  
